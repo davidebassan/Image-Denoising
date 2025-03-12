@@ -24,9 +24,8 @@ The dataset used in this project consists of medical images with artificially ad
 
 ## Code Structure
 - `notebook.ipynb`: Jupyter Notebook containing the full pipeline for noise reduction.
-- `data/`: Directory containing the medical images used for testing.
-- `models/`: Pretrained models for noise reduction.
-- `scripts/`: Additional scripts for preprocessing and evaluation.
+- `data/`: Directory containing the medical images used for testing. (not shared)
+- `models/`: Pretrained models for noise reduction. (not shared)
 
 ## How to Run the Project
 1. Clone the repository:
