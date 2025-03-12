@@ -30,7 +30,7 @@ The dataset used in this project consists of medical images with artificially ad
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/davidebassan/Exploration-of-Methods-for-Noise-Reduction-in-Medical-Images.git
+   git clone https://github.com/davidebassan/Image-Denoising.git
    cd yourrepository
    ```
 2. Install dependencies:
